@@ -1,0 +1,3 @@
+Nume: Alin Argintaru
+Sex: M
+Varsta: 25
